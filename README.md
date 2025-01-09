@@ -44,8 +44,7 @@ For any questions or collaboration opportunities, feel free to reach out:
 
 - Arya Shende
 - Meta XR Developer | Unity Developer | Android Developer
-
----
 - **Email**: arya.v.shende@gmail.com
 - **LinkedIn**: www.linkedin.com/in/arya-shende-9b4475250
 
+---
